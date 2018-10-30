@@ -50,3 +50,9 @@ p {
 .last {
   text-align: center;
 }
+
+.line {
+  background-color: dimgrey;
+  color: white;
+  font-size: 11px
+}
