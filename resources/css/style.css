@@ -35,3 +35,18 @@ h3 {
 p {
   font-size: 14px;
 }
+
+.bottom {
+  background-image: url("../images/the-flatiron-building.png");
+  text-align: center;
+}
+
+#title {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.last {
+  text-align: center;
+}
